@@ -1,0 +1,126 @@
+Toyota,Corolla,2012,132
+BMW,Model S,2019,320
+Ford,Mustang,2015,450
+Tesla,Model S,2022,670
+Audi,A4,2018,190
+Volkswagen,Passat,2011,150
+Honda,Civic,2013,140
+Mercedes,X5,2020,400
+Toyota,Yaris,2005,86
+Ford,Mustang,2017,480
+Honda,Civic,2008,120
+Tesla,Model S,2020,690
+BMW,X5,2011,300
+Audi,A4,2021,210
+Volkswagen,Passat,2010,160
+Toyota,Corolla,2003,100
+Mercedes,X5,2015,360
+Ford,Mustang,2023,500
+Tesla,Model S,2019,700
+BMW,Model S,2022,330
+Honda,Yaris,2009,95
+Toyota,Corolla,2016,132
+Audi,A4,2014,190
+Volkswagen,Passat,2012,150
+Mercedes,Civic,2007,125
+Toyota,Yaris,2006,85
+Ford,Mustang,2018,460
+Honda,Civic,2010,110
+Tesla,Model S,2023,710
+BMW,Model S,2017,340
+Audi,A4,2020,200
+Volkswagen,Passat,2016,155
+Toyota,Corolla,2009,105
+Mercedes,X5,2013,370
+Ford,Mustang,2016,455
+Tesla,Model S,2021,680
+BMW,X5,2008,280
+Honda,Civic,2019,135
+Audi,A4,2016,180
+Volkswagen,Passat,2007,145
+Toyota,Yaris,2015,90
+Ford,Mustang,2011,430
+Honda,Civic,2005,100
+Tesla,Model S,2018,675
+BMW,X5,2023,350
+Audi,A4,2006,160
+Volkswagen,Passat,2014,148
+Toyota,Corolla,2007,115
+Mercedes,X5,2012,390
+Ford,Mustang,2022,495
+Tesla,Model S,2016,660
+BMW,Model S,2015,310
+Honda,Yaris,2017,98
+Toyota,Corolla,2004,95
+Audi,A4,2017,185
+Volkswagen,Passat,2021,165
+Mercedes,Civic,2010,130
+Toyota,Yaris,2008,92
+Ford,Mustang,2009,425
+Honda,Civic,2006,102
+Tesla,Model S,2017,670
+BMW,Model S,2020,335
+Audi,A4,2013,175
+Volkswagen,Passat,2005,135
+Toyota,Corolla,2014,128
+Mercedes,X5,2016,395
+Ford,Mustang,2013,470
+Tesla,Model S,2015,640
+BMW,X5,2006,275
+Honda,Civic,2022,138
+Audi,A4,2008,165
+Volkswagen,Passat,2013,150
+Toyota,Yaris,2018,91
+Ford,Mustang,2010,440
+Honda,Civic,2015,118
+Tesla,Model S,2014,620
+BMW,Model S,2018,325
+Audi,A4,2015,195
+Volkswagen,Passat,2015,158
+Toyota,Corolla,2021,133
+Mercedes,X5,2009,385
+Ford,Mustang,2006,410
+Tesla,Model S,2013,600
+BMW,X5,2014,310
+Honda,Civic,2021,136
+Audi,A4,2005,150
+Volkswagen,Passat,2008,140
+Toyota,Yaris,2003,83
+Ford,Mustang,2020,490
+Honda,Civic,2004,98
+Tesla,Model S,2012,590
+BMW,Model S,2007,295
+Audi,A4,2019,205
+Volkswagen,Passat,2009,142
+Toyota,Corolla,2017,130
+Mercedes,X5,2017,375
+Ford,Mustang,2005,400
+Tesla,Model S,2011,580
+BMW,X5,2012,295
+Honda,Civic,2017,132
+Audi,A4,2023,215
+Volkswagen,Passat,2006,138
+Toyota,Yaris,2011,88
+Ford,Mustang,2019,485
+Honda,Civic,2003,96
+Tesla,Model S,2010,560
+BMW,Model S,2009,280
+Audi,A4,2007,170
+Volkswagen,Passat,2022,170
+Toyota,Corolla,2006,108
+Mercedes,X5,2005,365
+Ford,Mustang,2014,460
+Tesla,Model S,2008,550
+BMW,X5,2019,330
+Honda,Civic,2011,122
+Audi,A4,2012,172
+Volkswagen,Passat,2017,160
+Toyota,Yaris,2010,87
+Ford,Mustang,2008,415
+Honda,Civic,2002,94
+Tesla,Model S,2007,530
+BMW,Model S,2006,265
+Audi,A4,2011,168
+Volkswagen,Passat,2019,175
+Toyota,Corolla,2005,102
+Mercedes,X5,2021,405
